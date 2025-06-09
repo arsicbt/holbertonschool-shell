@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -U
+whoami 1-who_am_i
