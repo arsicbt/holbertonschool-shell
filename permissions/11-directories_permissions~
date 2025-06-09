@@ -1,0 +1,3 @@
+#!/bin/bash
+"""pq ca marche avec une MAJ ????!!!!!"""
+chmod -R ugo+X . 
